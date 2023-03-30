@@ -1,18 +1,18 @@
 
-.contenedor
+.contenedor{
     display: flex;
     margin: 0 auto;
     width: 80%;
 }
-
-.izquierda{
+ 
+.izquierda{ 
     width: 40%;
-    background-color: azure;
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
-    margin:  10px;
-    padding:  10px;
+    margin: 10px;
+    padding: 10px;
 }
-
+ 
 .derecha{
     font-family: Arial, Helvetica, sans-serif;
 }
